@@ -1,0 +1,13 @@
+HELP.md
+target/
+/src/main/webapp/shopreact/node_modules
+/src/main/webapp/shopreact/build
+/src/main/webapp/shopreact/package-lock.json
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
