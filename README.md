@@ -30,7 +30,7 @@ mvnw spring-boot:run
 ************************************************************************************
 
 2) Run the React
-Windows:
+sever:
 ```bash
 npm start
 ```
